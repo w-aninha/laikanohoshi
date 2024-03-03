@@ -1,6 +1,9 @@
 ### Sobre
 **ライカの星** (Raika no Hoshi em romaji) é um mangá que conta a história de uma cadela chamada Laika que foi enviada para o espaço num satélite artificial criado pela União soviética em 3 de novembro de 1957.
 
+## Sumário
+<sup>Capítulos traduzidos:</sup>
+CAPÍTULO 1: 
 
 ### Créditos
 eu, aninha, w-aninha, me senti livre pra traduzir esta obra para o português brasileiro (todos os créditos do scan de língua inglesa vão para Anon, Cof e RRR-Gi.).
