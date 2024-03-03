@@ -1,10 +1,13 @@
-### Sobre
-**ライカの星** (Raika no Hoshi em romaji) é um mangá que conta a história de uma cadela chamada Laika que foi enviada para o espaço num satélite artificial criado pela União soviética em 3 de novembro de 1957.
+## Sobre
+**ライカの星** (Raika no Hoshi em romaji) é um mangá que conta, em 5 capítulos, a história de uma cadela chamada Laika que foi enviada para o espaço num satélite artificial criado pela União soviética em 3 de novembro de 1957.
 
 ## Sumário
 <sup>Capítulos traduzidos:</sup><br>
-CAPÍTULO 1: https://github.com/w-aninha/laikanohoshi/issues/1#issue-2165067576
-CAPÍTULO 2: https://github.com/w-aninha/laikanohoshi/issues/2#issue-2165535841
+CAPÍTULO 1: https://github.com/w-aninha/laikanohoshi/issues/1#issue-2165067576<br>
+CAPÍTULO 2: https://github.com/w-aninha/laikanohoshi/issues/2#issue-2165535841<br>
+CAPÍTULO 3: https://github.com/w-aninha/laikanohoshi/issues/3#issue-2165542980<br>
+CAPÍTULO 4: https://github.com/w-aninha/laikanohoshi/issues/4#issue-2165552569<br>
+CAPÍTULO 5: https://github.com/w-aninha/laikanohoshi/issues/5#issue-2165553467
 
 ### Créditos
 eu, aninha, w-aninha, me senti livre pra traduzir esta obra para o português brasileiro (todos os créditos do scan de língua inglesa vão para Anon, Cof e RRR-Gi.).
