@@ -4,6 +4,7 @@
 ## Sumário
 <sup>Capítulos traduzidos:</sup><br>
 CAPÍTULO 1: https://github.com/w-aninha/laikanohoshi/issues/1#issue-2165067576
+CAPÍTULO 2: https://github.com/w-aninha/laikanohoshi/issues/2#issue-2165535841
 
 ### Créditos
 eu, aninha, w-aninha, me senti livre pra traduzir esta obra para o português brasileiro (todos os créditos do scan de língua inglesa vão para Anon, Cof e RRR-Gi.).
