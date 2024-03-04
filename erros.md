@@ -1,3 +1,3 @@
 ### correcao de erros (lista pra fazer dps)
-- cap 4, pág 15 › ~nymero~ número
+- cap 4, pág 15 › ~nymero~ número, quebra de linha p fazer na palavra carambolas
 - cap 5, pág 21 › ~nosso~ meu
