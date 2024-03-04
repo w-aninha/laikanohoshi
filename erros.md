@@ -2,4 +2,4 @@
 - cap 4, pág 15 › ~nymero~ número
   - quebra de linha p fazer na palavra carambolas
 - cap 5, pág 21 › ~nosso~ meu
-- cap 1, pág 11 › maximizar a opacidade da pra cobrir a tradução inglesa
+- cap 1, pág 11 › maximizar a opacidade dao branco das bolhas de diálogo pra cobrir a tradução inglesa
